@@ -1,4 +1,4 @@
-Hello! I am @theNaLee, and it is great to meet YOU! 
+Hello! My name is NaLee and it is great to meet YOU! 
 I am studying at Fox Valley Technical College for my Software Developer Associate Degree. After finishing my degree, I will be transferring to get a Bachelor of Science in Computer Science. 
 My favorite color is orange! I love jellyfishes and birds (as long as they are not pigeons). I love to read, write, and play video games!
 
