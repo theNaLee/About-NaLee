@@ -3,7 +3,7 @@ I am studying at Fox Valley Technical College for my Software Developer Associat
 
 My favorite color is orange! I love jellyfishes and birds (as long as they are not pigeons). I love to read, write, and play video games!
 
-Feel free to check out my portfolio of all the project and codes I have worked on! 
+Feel free to check out my portfolio of all the projects and codes I have worked on! 
 
 You can contact me by emailing: Naleechang@gmail.com
 <!---
